@@ -6,12 +6,12 @@ public class homeloanTest {
 	@Test
 	public void homestart(){
 		
-		System.out.println("I am home loan");
+		System.out.println("I am home changed loan");
 	}
 	
 	@Test
 	public void homeend(){
 		
-		System.out.println("I am home loan end");
+		System.out.println("I am home end");
 	}
 }
